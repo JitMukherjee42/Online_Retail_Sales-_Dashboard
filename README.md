@@ -1,24 +1,24 @@
-# SQL_project
-E_Commerce_Sales_Data
-Revenue Insights
+# Excel_project
+📝 Project Overview
+This project is an interactive Excel-based dashboard designed to analyze online retail sales data. It provides key business insights through various KPIs and visualizations, helping users understand revenue trends, top-selling products, and geographical sales distribution.
 
-Total revenue by year, quarter, and month.
-Top 10 products contributing to revenue.
-Revenue growth percentage year-over-year.
+📌 Key Features
 
-Customer Insights
+✅ KPIs Tracked:
+Total Revenue – Overall earnings from sales.
+Average Order Value – Revenue per order.
+Category-wise Maximum Sales – Best-performing product categories.
+Total Consumers – Number of unique buyers.
 
-New customers added per month.
-Most frequent customers.
-Revenue contribution by customer segment (e.g., city, state).
+✅ Charts & Visualizations:
+📍 Average Revenue by Country – Identifies high-revenue regions.
+📈 Sum of Revenue by Months – Tracks monthly sales trends.
+🌍 Top 10 Countries (Sales-wise Distribution) – Highlights key markets.
+🏆 Top 15 Products by Revenue – Lists best-selling products.
+📊 Average Revenue by Quarter & Country – Compares regional performance across quarters.
 
-Product Insights
 
-Best and worst-selling products.
-Stock analysis to identify products nearing out-of-stock levels.
-Category-wise revenue contribution.
+📬 Contact
+For queries or suggestions, reach out via GitHub Issues or connect on LinkedIn.
 
-Performance Insights
 
-Daily, weekly, and monthly sales trends.
-Comparison of weekend vs weekday sales.
